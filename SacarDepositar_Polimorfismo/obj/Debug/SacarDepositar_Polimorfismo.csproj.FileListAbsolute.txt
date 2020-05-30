@@ -1,0 +1,10 @@
+C:\Users\Luigi\Desktop\GitHub\SacarDepositar_Polimorfismo\SacarDepositar_Polimorfismo\obj\Debug\SacarDepositar_Polimorfismo.csprojAssemblyReference.cache
+C:\Users\Luigi\Desktop\GitHub\SacarDepositar_Polimorfismo\SacarDepositar_Polimorfismo\obj\Debug\SacarDepositar_Polimorfismo.frmBanco.resources
+C:\Users\Luigi\Desktop\GitHub\SacarDepositar_Polimorfismo\SacarDepositar_Polimorfismo\obj\Debug\SacarDepositar_Polimorfismo.Properties.Resources.resources
+C:\Users\Luigi\Desktop\GitHub\SacarDepositar_Polimorfismo\SacarDepositar_Polimorfismo\obj\Debug\SacarDepositar_Polimorfismo.csproj.GenerateResource.cache
+C:\Users\Luigi\Desktop\GitHub\SacarDepositar_Polimorfismo\SacarDepositar_Polimorfismo\obj\Debug\SacarDepositar_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\Desktop\GitHub\SacarDepositar_Polimorfismo\SacarDepositar_Polimorfismo\bin\Debug\SacarDepositar_Polimorfismo.exe.config
+C:\Users\Luigi\Desktop\GitHub\SacarDepositar_Polimorfismo\SacarDepositar_Polimorfismo\bin\Debug\SacarDepositar_Polimorfismo.exe
+C:\Users\Luigi\Desktop\GitHub\SacarDepositar_Polimorfismo\SacarDepositar_Polimorfismo\bin\Debug\SacarDepositar_Polimorfismo.pdb
+C:\Users\Luigi\Desktop\GitHub\SacarDepositar_Polimorfismo\SacarDepositar_Polimorfismo\obj\Debug\SacarDepositar_Polimorfismo.exe
+C:\Users\Luigi\Desktop\GitHub\SacarDepositar_Polimorfismo\SacarDepositar_Polimorfismo\obj\Debug\SacarDepositar_Polimorfismo.pdb
